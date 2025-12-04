@@ -1,5 +1,5 @@
 
-## Introduction
+### **Introduction**
 
 Hardness of water is a measure of amount of calcium (Ca<sup>2+</sup>) and magnesium (Mg<sup>2+</sup>) salts dissolved in water.Hardness has also been discussed in terms of carbonate (temporary) and non-carbonate (permanent) hardness. Carbonate hardness refers to the amount of carbonates and bicarbonates present in water that can be
 precipitated or removed simply by boiling and therefore termed as temporary hardness. This type of hardness is responsible for the deposition of scale in boilers and pipes for hot water. Non-carbonate hardness is caused by salts of calcium and magnesium with sulphate, chloride or nitrate ions this type of hardness can’t be removed by boiling therefore, referred as permanent hardness.

@@ -1,61 +1,73 @@
- 
+ #### Please attempt the following questions
 
-**1. What is the primary cause of temporary hardness in water?**
-- a. Calcium chloride  
-- b. Calcium carbonate  
-- c. Magnesium sulfate  
-- d. Sodium bicarbonate  
+<br>
+Q1. What is the primary cause of temporary hardness in water?<br>
 
-**2. Which ion is responsible for permanent hardness in water?**
-- a. Ca2+  
-- b. Mg2+  
-- c. HCO3-  
-- d. SO4²-  
+a. Calcium chloride  <br>
+b. Calcium carbonate  <br>
+c. Magnesium sulfate  <br>
+d. Sodium bicarbonate  <br>
+<br>
 
-**3. In complexometric titration, what is the function of the chelating agent?**
-- a. Indicating the endpoint  
-- b. Forming a complex with metal ions  
-- c. Providing color change  
-- d. Neutralizing the solution  
+Q2. Which ion is responsible for permanent hardness in water?<br>
 
-**4. What is the primary purpose of adding a buffer solution in the complexometric titration of water hardness?**
-- a. Enhancing the color change  
-- b. Stabilizing the pH  
-- c. Accelerating the reaction  
-- d. Increasing the titrant concentration  
+a. Ca2+  <br>
+b. Mg2+  <br>
+c. HCO3-  <br>
+d. SO4²-  <br>
+<br>
+Q3. In complexometric titration, what is the function of the chelating agent?<br>
 
-**5. Which type of hardness can be removed by boiling water?**
-- a. Temporary hardness  
-- b. Permanent hardness  
-- c. Both temporary and permanent hardness  
-- d. Neither temporary nor permanent hardness  
+a. Indicating the endpoint  <br>
+b. Forming a complex with metal ions  <br>
+c. Providing color change  <br>
+d. Neutralizing the solution  <br>
+<br>
+Q4. What is the primary purpose of adding a buffer solution in the complexometric titration of water hardness?<br>
 
-**6. What is the endpoint of a complexometric titration determined by?**
-- a. Visual color change  
-- b. pH meter reading  
-- c. Conductivity measurement  
-- d. Gas evolution  
+a. Enhancing the color change  <br>
+b. Stabilizing the pH  <br>
+c. Accelerating the reaction  <br>
+d. Increasing the titrant concentration  <br>
+<br>
+Q5. Which type of hardness can be removed by boiling water?<br>
 
-**7. What is the unit of measurement for water hardness?**
-- a. ppm (parts per million)  
-- b. pH units  
-- c. mg/L (milligrams per liter)  
-- d. Molarity (M)  
+a. Temporary hardness  <br>
+b. Permanent hardness  <br>
+c. Both temporary and permanent hardness  <br>
+d. Neither temporary nor permanent hardness  <br>
+<br>
+Q6. What is the endpoint of a complexometric titration determined by?<br>
 
-**8. Which type of hardness can be removed by boiling water?**
-- a. Temporary hardness  
-- b. Permanent hardness  
-- c. Both temporary and permanent hardness  
-- d. Neither temporary nor permanent hardness  
+a. Visual color change  <br>
+b. pH meter reading  <br>
+c. Conductivity measurement  <br>
+d. Gas evolution  <br>
+<br>
+Q7. What is the unit of measurement for water hardness?<br>
 
-**9. What is the chemical formula for ethylenediaminetetraacetic acid (EDTA), a commonly used chelating agent in complexometric titrations?**
-- a. C6H5OH  
-- b. C2H5OH  
-- c. C10H14N2O8  
-- d. CH3COOH  
+a. ppm (parts per million)  <br>
+b. pH units  <br>
+c. mg/L (milligrams per liter)  <br>
+d. Molarity (M)  <br>
+<br>
+Q8. Which type of hardness can be removed by boiling water?<br>
 
-**10. What role does the metal ion play in the formation of a complex during complexometric titration?**
-- a. Acts as a catalyst  
-- b. Forms a colored compound  
-- c. Binds with the chelating agent  
-- d. Neutralizes the solution  
+a. Temporary hardness  <br>
+b. Permanent hardness  <br>
+c. Both temporary and permanent hardness  <br>
+d. Neither temporary nor permanent hardness  <br>
+<br>
+Q9. What is the chemical formula for ethylenediaminetetraacetic acid (EDTA), a commonly used chelating agent in complexometric titrations?<br>
+
+a. C6H5OH  <br>
+b. C2H5OH  <br>
+c. C10H14N2O8  <br>
+d. CH3COOH  <br>
+<br>
+Q10. What role does the metal ion play in the formation of a complex during complexometric titration?<br>
+
+- a. Acts as a catalyst  <br>
+- b. Forms a colored compound  <br>
+- c. Binds with the chelating agent <br> 
+- d. Neutralizes the solution  <br>
