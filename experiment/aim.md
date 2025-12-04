@@ -1,1 +1,1 @@
-### Aim of the experiment
+### To determine the temporary and permanent hardness of water by complexometric titration.
