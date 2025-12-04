@@ -29,7 +29,7 @@ Follow these steps to determine the temporary and permanent hardness of water by
 
 (v) Repeat the titration process as mentioned under standardization of EDTA and note the initial and final burette reading of EDTA.
 
-## Precautions
+## **Precautions**
 
 1.Clamp the burette perfect vertically, so that it is easy to read the scale properly.
 
