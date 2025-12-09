@@ -17,6 +17,28 @@
 </head>
 
 <body>
+   <style>
+        #container1 {
+      position: relative; /* Needed to anchor tooltip inside container */
+    }
+
+    .help-tooltip {
+      position: absolute;
+      top: -0px;       /* Adjust height above content */
+      left: 80%;
+      transform: translateX(-50%);
+      background: #ffffff;
+      padding: 12px 18px;
+      border-radius: 6px;
+      border: 2px solid #70a9a1;
+      font-family: Poppins, sans-serif;
+      font-size: 14px;
+      display: none;
+      white-space: nowrap;
+      box-shadow: 0px 4px 8px rgba(0,0,0,0.25);
+      z-index: 999;
+    }
+  </style>
   <h1 class="heading"> Determination of temporary and permanent hardness of water by complexometric titration.</h1>
   <div id="container" class="box">
     <button class="help-button" onclick="showHelp()"><i class="fa-solid fa-circle-info fa-xl"></i></button>
@@ -28,7 +50,7 @@
         <button onclick="changeText()"><i class="fa-solid fa-forward fa-xl"></i></button>
 
       </div>
-      
+      <div id="helpTooltip" class="help-tooltip">Instructions are available below the page.</div>
     </div>
     
   </div>
@@ -91,6 +113,18 @@ function skip(){
 
   </script>
   <script src="js/3and4KMno42.js"></script>
+  <script>
+      const helpBtn = document.querySelector(".help-button");
+    const helpTooltip = document.getElementById("helpTooltip");
+
+    helpBtn.addEventListener("mouseenter", () => {
+      helpTooltip.style.display = "block";
+    });
+
+    helpBtn.addEventListener("mouseleave", () => {
+      helpTooltip.style.display = "none";
+    });
+  </script>
 </body>
 
 </html>
