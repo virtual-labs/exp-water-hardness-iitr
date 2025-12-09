@@ -397,7 +397,7 @@ function addLiquidDrop() {
       shownext = true;
       titrationFinished = true;
       // Show HTML Next button so user can reliably proceed
-      showHtmlNextButton('Next', nextpressed);
+      // showHtmlNextButton('Next', nextpressed);
     }
     if (darkness <= 255 && titrationFinished) {
       darkness += 10;

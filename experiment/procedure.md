@@ -1,11 +1,7 @@
-
-## **Procedure**
-
 Follow these steps to determine the temporary and permanent hardness of water by complexometric titration.
 
----
 
-### **1. Standardization of EDTA Solution**
+#### **1. Standardization of EDTA Solution**
 
 (i) In a clean and dry conical flask pipette out 20 ml of standard hard water solution. 
 
@@ -13,11 +9,11 @@ Follow these steps to determine the temporary and permanent hardness of water by
 
 (iii) Fill the burette with EDTA solution after rinsing, note the initial burette reading. Titrate the solution in the conical flask till the wine red color changes blue and note the final burette reading.
 
-### **2. Determination of Total Hardness**
+#### **2. Determination of Total Hardness**
 
 (i) Repeat the above titration method for hard water sample and note the initial and final burette readings.
 
-### **3. Determination of Permanent Hardness**
+#### **3. Determination of Permanent Hardness**
 
 (i) To remove temporary hardness take 100 ml of hard water sample in 250 ml beaker and boil it off till half of the volume is reduced and cool to room temperature.
 
@@ -29,7 +25,7 @@ Follow these steps to determine the temporary and permanent hardness of water by
 
 (v) Repeat the titration process as mentioned under standardization of EDTA and note the initial and final burette reading of EDTA.
 
-## **Precautions**
+#### **Precautions**
 
 1.Clamp the burette perfect vertically, so that it is easy to read the scale properly.
 

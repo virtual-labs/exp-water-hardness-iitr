@@ -166,8 +166,6 @@ function setup() {
   vadded = 0;
 
   //pieceHeight = height / numPieces;
-
-
   canvasLocation = canvas.position();
   console.log("Canvas location:", canvasLocation);
 
@@ -356,8 +354,8 @@ function addLiquidDrop() {
       titrationFinished = true;
       // After a short delay, save the results and continue to next page
       // show an HTML Next button for reliability, and auto-advance after 1s
-      showHtmlNextButton('Next', finishFirstTitration);
-      setTimeout(finishFirstTitration, 1000);
+      // showHtmlNextButton('Next', finishFirstTitration);
+      // setTimeout(finishFirstTitration, 1000);
     }
     if (darkness <= 255 && titrationFinished) {
       darkness += 10;

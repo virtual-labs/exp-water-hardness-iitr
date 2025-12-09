@@ -18,6 +18,27 @@
 </head>
 
 <body>
+  <style>
+  .help-tooltip {
+  position: absolute;
+  background: #ffffff;
+  padding: 30px 30px;
+  border-radius: 6px;
+  border: 2px solid #70a9a1;
+  font-family: Poppins, sans-serif;
+  font-size: 14px;
+  display: none;
+  top: -180px;         /* Adjust vertical position */
+  left: 50%;          
+  transform: translateX(-50%);
+  box-shadow: 0px 3px 6px rgba(0,0,0,0.2);
+  white-space: nowrap;
+  z-index: 999;
+}
+.button-container {
+  position: relative; /* Needed so tooltip positions correctly */
+}
+  </style>
 
   <H1>To determine the constituents and amount of alkalinity of the supplied water sample.</H1>
   <h3>Titrating to determine permanent hardness.</h3>
@@ -51,6 +72,7 @@
           <div>
             <button class="button secondary" id="Start">Start</button>
           </div>
+          <div id="helpTooltip" class="help-tooltip">Instructions are available below the page.</div>
         </div>
         <div class="slider-container">
           <div class="slider-box"><label for="speed_change">Nozzle Open: <span class="slider-value" id="speed">2
@@ -117,6 +139,18 @@
       }
     }
 
+  </script>
+   <script>
+    const helpBtn = document.querySelector(".help-button");
+    const helpTooltip = document.getElementById("helpTooltip");     
+
+    helpBtn.addEventListener("mouseenter", () => {
+      helpTooltip.style.display = "block";
+    });
+
+    helpBtn.addEventListener("mouseleave", () => {
+      helpTooltip.style.display = "none";
+    });
   </script>
 
 </body>
