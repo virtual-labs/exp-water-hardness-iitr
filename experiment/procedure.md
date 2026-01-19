@@ -25,6 +25,25 @@ Follow these steps to determine the temporary and permanent hardness of water by
 
 (v) Repeat the titration process as mentioned under standardization of EDTA and note the initial and final burette reading of EDTA.
 
+#### **Slide-1 Procedure**
+1. Add few drops of Erichrome Black T  to conical flask.
+2. The colour of solution turns wine red.
+3. Add 5 ML Ammonium Buffer Solution.
+
+#### **Slide-2 Procedure**
+1. Set the normality of titrate(EDTA solution) and volume of titrant(Sample water solution) according to you, click start button.
+2. Fix the nozzle opening size by the nozzle open slider and shake it.
+3. Titrate it till the colour changes to peacock blue.
+
+#### **Slide-3 Procedure**
+1. Add few drops of Erichrome Black T  to Sample2.
+2. The colour of solution turns wine red.
+
+#### **Slide-4 Procedure**
+1. Click start button.
+2. Fix the nozzle opening size by nozzle open slider.Shake the flask while Titrating.
+3. Titrate the solution till it turn to orange-red.
+
 #### **Precautions**
 
 1.Clamp the burette perfect vertically, so that it is easy to read the scale properly.
